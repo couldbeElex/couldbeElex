@@ -1,5 +1,5 @@
 - 👋 Hi, I’m Rafael Braga, student at Universidade Federal do Ceará. This is my GitHub profile!
-- ☄️ Crash landing at programming! Git and GitHub are ENTIRELY new to me as of this moment, March 2024.
+- ☄️ Crash landing at programming! Learning a bit about Git every day. :)
 - ✨ Data Science and Machine Learning enthusiast, currently learning my way through Python!
 
 <!---
